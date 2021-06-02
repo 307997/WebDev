@@ -1,0 +1,19 @@
+#Family{
+    background-image: url('../images/family.jpg');
+    background-size: cover;
+}
+
+tr {
+    border: 1px solid #c4dff8;
+    text-align: center;
+    background-color:#c9dff5; 
+}
+
+th{
+    color:white;
+    background-color: rgb(130, 168, 238);
+}
+table{
+    text-align: center;
+   
+}
